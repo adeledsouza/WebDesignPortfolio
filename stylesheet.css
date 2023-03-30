@@ -6,6 +6,8 @@
 /* -------------------- GLOBAL DEFAULTS */
 .html {
     background-color: #fffafc;
+    font-family: sans-serif;
+    line-height: 1.15;
 }
 
 .wrapper {
@@ -16,6 +18,4 @@
 img {
     width: 600px;
     height: auto;
-    vertical-align: middle;
-    border-style: none;
 }
