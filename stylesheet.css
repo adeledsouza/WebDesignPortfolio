@@ -4,7 +4,7 @@
 @import url("normalise.css");
 
 /* -------------------- GLOBAL DEFAULTS */
-.html {
+body {
     background-color: #fffafc;
     font-family: sans-serif;
     line-height: 1.15;
@@ -53,10 +53,19 @@ nav li a{
     text-decoration: none;
 }
 
-img{
+/* -------------------- INTRODUCTION */
+.image1{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 700px;
     height: 300px;
+}
+
+.image2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 350px;
 }
