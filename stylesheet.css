@@ -52,3 +52,11 @@ nav li a{
     color: #082f36;
     text-decoration: none;
 }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 300px;
+}
