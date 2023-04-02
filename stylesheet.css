@@ -128,13 +128,18 @@ nav li a{
 
 /* -------------------- FOOTER AND SOCIAL LINKS */
 .socials{
-    padding: 300px;
-    display: inline-block;
-    height: 60px;
-    width: 60px;
-    float: left;
-    margin: 0px 5px;
-    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
+a1{
+    height: 50px;
+    width: 50px;
+    background-color: #30a19b;
+    border-radius: 25px;
+    text-align: center;
+    margin: 10px;
+    line-height: 60px;
 }
